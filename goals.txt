@@ -1,1 +1,2 @@
-Become a Fullstack developer with AI/LLM/RAG Intergrations
+Become a Fullstack developer with AI/LLM/RAG Intergrations.
+Integrations with github actions automations.
